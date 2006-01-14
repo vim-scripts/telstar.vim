@@ -1,0 +1,6 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=1443
+
+A dark, blue/lavender/gray/magenta space-y theme for gvim only, sorry. Also has a few extra highlights for Java. Screenshot at http://excelsi.org/telstar.jpg (the background there is not part of the colorscheme, but it does match nicely...)
+
+If you want to use the Java highlighting you'll need Claudio Fleiner's java.vim syntax highlighting from
+http://www.fleiner.com/vim/download.html.
