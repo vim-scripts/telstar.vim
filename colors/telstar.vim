@@ -56,6 +56,9 @@ hi Todo          gui=bold guifg=black
 hi String        guifg=#999999
 hi Operator      guifg=#8080c0
 hi Identifier    guifg=#686888
+hi Pmenu         guibg=#101033 guifg=#999999 gui=bold
+
+hi MatchParen    gui=bold guibg=#000022
 
 " java highlighting
 hi javaExternal  guifg=#666666
